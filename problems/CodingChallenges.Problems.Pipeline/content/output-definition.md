@@ -1,0 +1,1 @@
+Your output should contain a single integer indicating the minimum number of machines that can be used to complete *M* loads in the pipeline, without increasing the processing time.
