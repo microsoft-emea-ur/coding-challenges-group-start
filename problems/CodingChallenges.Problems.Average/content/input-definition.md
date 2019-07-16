@@ -1,0 +1,1 @@
+An input file for this program will contain a string of 500 or fewer comma separated integers, ranging from 1 to 1000, inclusive.

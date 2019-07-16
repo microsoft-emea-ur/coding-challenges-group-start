@@ -1,0 +1,1 @@
+Your output should be the integer that is the (rounded) mean of the given integers. 
