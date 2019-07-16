@@ -1,0 +1,1 @@
+Your output should contain the maximum distance you could receive credit for with the given constraints. The value should be rounded to 2 decimal places.
