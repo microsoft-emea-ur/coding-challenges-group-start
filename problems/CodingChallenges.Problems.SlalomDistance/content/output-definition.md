@@ -1,0 +1,2 @@
+Your output should contain *T* lines, one for each given test case.
+For each test case, your output should be the length of the shortest path from your starting position through all the slalom gates, rounded to 4 decimal places.
